@@ -1,0 +1,199 @@
+<!--
+
+==== Items EloItemXmlModel ====
+
+<Items>
+	<EloItemXmlModel>
+		<Rank> 				=> value | current rank on australian elo list
+		<LocalRank> 		=> value | current rank within respective region 
+		<Score> 			=> value | current elo
+		<RankMovement> 		=> value | rank movement on australian elo list
+		<LocalRankMovement> => value | rank movement within respective region
+		<ScoreMovement> 	=> value | elo change since last update
+		<Movements> 		=> array | contains a complete match history/elo change
+			- <EloMovementXmlModel> see related doc bwloe
+
+		<PlayerID> 			=> value | id used to tie in to a player profile (later in xml file)
+		<Characters> 		=> array | character ids for listed (most used?) characters
+			- <int> 		=> value | character id
+		<HasCharacterData> 	=> bool  | guess
+		<CharacterUsage> 	=> array | containslist of all listed character usage at tournaments
+			- <EloItemCharacterUsageItem> see related doc
+	</EloItemXmlModel
+</Items> 
+
+==== Movements EloMovementXmlModle ====
+
+ 	<OldScore> 				=> value | previous Elo score (before update)
+ 	<NewScore> 				=> value | new Elo Score (taking this update into consideration)
+ 	<OpponentOldScore> 		=> value | opponent's previous Elo score (before update)
+ 	<OpponentNewScore> 		=> value | opponent's new Elo score (taking this update into consideration) 
+ 	<OpponentID> 			=> value | Opponent's PlayerID
+ 	<OpponnentName> 		=> value | Opponent's name
+ 	<OpponentIsTagged> 		=> value | If the opponent is tagged on qldsmash (has a player account created, will make sense if you're a qldsmash admin)
+ 	<TourneyID> 			=> value | The TournamentID the set was played at
+ 	<EventName> 			=> value | The name of the tournament the set was played at
+ 	<PlayerCharImg> 		=> value | internal url qldsmash uses to show player character image
+ 	<OpponentCharImg> 		=? value | internal url qldsmash uses to show opponent character image
+ 	<IsWin> 				=> bool  | guess
+ 	<Change> 				=> value | The total elo change from this match
+ 	<WinnerName> 			=> value | the name of the winner of  the match
+ 	<Note> 					=> value | special match notes, appears to be unused/extremely rarely used
+
+==== Character Usage EloItemCharacterUsageItem ====
+
+	<OverallCharacterUsage> => i forget lol soz, something to do with the character stats page qldsmash does
+	<RelativeCharacterUsage>=> i forget lol soz, something to do with the character stats page qldsmash does
+	<CharacterID> 			=> value | characterID
+
+==== Player XmlPlayerModel  ====
+
+	<ID> 					=> value | playerID
+	<Name> 					=> value | player's name
+	<SiteLink> 				=> value | url to player's profile on qldsmas
+	<SiteLinkTitle> 		=> value | title for above url
+	<RegionID> 				=> value | RegionID the player is from
+
+==== Tourneys XmlTourneyModel ====
+
+	<ID> 					=> value | tournamentID
+	<Name> 					=> value | tournament's name
+	<DisplayName> 			=> value | the name that qldsmash displays
+	<RegionID> 				=> value | the regionID of the tournament
+	<TourneyDate> 			=> value | the date of the tournament
+	<SiteLink> 				=> value | url to tournament page on qldsmash
+	<SiteLinkTitle> 		=> value | title to above link
+
+==== Characters XmlCharacterModel ====
+
+	<ID> 					=> value | characterID
+	<Name> 					=> value | character's name
+	<Short> 				=> value | short version of character name
+	<ImageUrl> 				=> value | internal qldsmash url of character
+	<Colour>  				=> value | colour of character to show on qldsmash
+
+==== Region XmlRegionModel ====
+
+	<ID> 					=> value | regionID
+	<ImageUrl> 				=> value | internal qldsmash url to show region icon
+	<Name> 					=> value | name of region (e.g. New South Wales)
+	<Short> 				=> value | short version of region mane (e.g. NSW)
+
+-->
+
+
+<!-- Small Extract of the qldsmash SSBM XML below -->
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<EloXmlModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CreatedDate>2016-04-27T22:18:56.3901188Z</CreatedDate>
+	<GameName>Super Smash Bros. Melee</GameName>
+	<GameShort>SSBM</GameShort>
+	<Items>
+		<EloItemXmlModel>
+			<Rank>1</Rank>
+			<LocalRank>1</LocalRank>
+			<Score>2777</Score>
+			<RankMovement>0</RankMovement>
+			<LocalRankMovement>0</LocalRankMovement>
+			<ScoreMovement>107</ScoreMovement>
+			<Movements>
+				<EloMovementXmlModel>
+					<OldScore>2739</OldScore>
+					<NewScore>2777</NewScore>
+					<OpponentOldScore>2539</OpponentOldScore>
+					<OpponentNewScore>2501</OpponentNewScore>
+					<OpponentID>1048</OpponentID>
+					<OpponentName>Syke</OpponentName>
+					<OpponentIsTagged>true</OpponentIsTagged>
+					<TourneyID>814</TourneyID>
+					<EventName>Singles Pro</EventName>
+					<PlayerCharImages /><OpponentCharImages />
+					<IsWin>true</IsWin>
+					<Change>38</Change>
+					<WinnerName>smopup</WinnerName>
+					<Note />
+				</EloMovementXmlModel>
+				<EloMovementXmlModel>
+					<OldScore>2695</OldScore>
+					<NewScore>2739</NewScore>
+					<OpponentOldScore>2550</OpponentOldScore>
+					<OpponentNewScore>2506</OpponentNewScore>
+					<OpponentID>1048</OpponentID>
+					<OpponentName>Syke</OpponentName>
+					<OpponentIsTagged>true</OpponentIsTagged>
+					<TourneyID>814</TourneyID>
+					<EventName>Singles Pro</EventName>
+					<PlayerCharImages />
+					<OpponentCharImages />
+					<IsWin>true</IsWin>
+					<Change>44</Change>
+					<WinnerName>smopup</WinnerName>
+					<Note />
+				</EloMovementXmlModel>
+			</Movements>
+			<PlayerID>1049</PlayerID>
+			<Characters>
+				<int>73</int>
+				<int>70</int>
+				<int>87</int>
+			</Characters>
+			<HasCharacterData>true</HasCharacterData>
+			<CharacterUsage>
+				<EloItemCharacterUsageItem>
+					<OverallCharacterUsage>82</OverallCharacterUsage>
+					<RelativeCharacterUsage>100</RelativeCharacterUsage>
+					<CharacterID>73</CharacterID>
+				</EloItemCharacterUsageItem>
+				<EloItemCharacterUsageItem>
+					<OverallCharacterUsage>14</OverallCharacterUsage>
+					<RelativeCharacterUsage>17</RelativeCharacterUsage>
+					<CharacterID>70</CharacterID>
+				</EloItemCharacterUsageItem>
+				<EloItemCharacterUsageItem>
+					<OverallCharacterUsage>4</OverallCharacterUsage>
+					<RelativeCharacterUsage>4</RelativeCharacterUsage>
+					<CharacterID>87</CharacterID>
+				</EloItemCharacterUsageItem>
+			</CharacterUsage>
+		</EloItemXmlModel>
+	</Items>
+	<Players>
+		<XmlPlayerModel>
+			<ID>1038</ID>
+			<Name>Shitashi</Name>
+			<SiteLink>/Players/QLD?p=Shitashi</SiteLink>
+			<SiteLinkTitle>View Smash Bros data for Shitashi from Queensland</SiteLinkTitle>
+			<RegionID>4</RegionID>
+		</XmlPlayerModel>
+	</Players>
+	<Tourneys>
+		<XmlTourneyModel>
+			<ID>334</ID>
+			<Name>UQ Smash 3</Name>
+			<DisplayName>[QLD] UQ Smash 3</DisplayName>
+			<RegionID>4</RegionID>
+			<TourneyDate>2014-12-13T00:00:00</TourneyDate>
+			<SiteLink>/Results/QLD?t=UQ%20Smash%203</SiteLink>
+			<SiteLinkTitle>View data for [QLD] UQ Smash 3</SiteLinkTitle>
+		</XmlTourneyModel>
+	</Tourneys>
+	<Characters>
+		<XmlCharacterModel>
+			<ID>66</ID>
+			<Name>Bowser</Name>
+			<Short>Bowser</Short>
+			<ImageUrl>/Content/Uploads/227461c4-cff6-4b9b-bf76-621ceff3c4d2.png</ImageUrl>
+			<Colour>#32765c</Colour>
+		</XmlCharacterModel>
+	</Characters>
+	<Regions>
+		<XmlRegionModel>
+			<ID>4</ID>
+			<ImageUrl>/Content/Uploads/2e82492e-24c9-4863-94f2-0aebe084ff64.png</ImageUrl>
+			<Name>Queensland</Name>
+			<Short>QLD</Short>
+		</XmlRegionModel>
+	</Regions>
+</EloXmlModel>

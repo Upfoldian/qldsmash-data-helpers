@@ -1,0 +1,479 @@
+  {
+  "characters": [
+    {
+      "characterID": 271,
+      "name": "Bayonetta",
+      "short": "Bayonetta",
+      "imgURL": "/Content/Uploads/2b3eb536-a002-49d8-8b02-699a6319093c.png",
+      "colour": "#a69fe5"
+    },
+    {
+      "characterID": 155,
+      "name": "Bowser",
+      "short": "Bowser",
+      "imgURL": "/Content/Uploads/392ab237-14b3-4068-8e63-67b0b380d2b3.png",
+      "colour": "#32765c"
+    },
+    {
+      "characterID": 240,
+      "name": "Bowser Jr.",
+      "short": "BowserJr",
+      "imgURL": "/Content/Uploads/d8cb3c9e-7a85-4295-85b9-00351742b030.png",
+      "colour": "#cfce37"
+    },
+    {
+      "characterID": 221,
+      "name": "Captain Falcon",
+      "short": "CaptainFalcon",
+      "imgURL": "/Content/Uploads/ad508560-7e0d-4757-b026-1edd85d3f611.png",
+      "colour": "#9088e2"
+    },
+    {
+      "characterID": 203,
+      "name": "Charizard",
+      "short": "Charizard",
+      "imgURL": "/Content/Uploads/18ef06a7-2a5d-417a-913e-5bd7597f25cf.png",
+      "colour": "#f26b0f"
+    },
+    {
+      "characterID": 267,
+      "name": "Cloud",
+      "short": "Cloud",
+      "imgURL": "/Content/Uploads/3457f2c9-e0dd-4b4e-8b55-701ed78b9782.png",
+      "colour": "#179884"
+    },
+    {
+      "characterID": 269,
+      "name": "Corrin",
+      "short": "Corrin",
+      "imgURL": "/Content/Uploads/81a3fb86-0574-4353-b5a4-cd2bf3b0bfa7.png",
+      "colour": "#4ba9c3"
+    },
+    {
+      "characterID": 250,
+      "name": "Dark Pit",
+      "short": "DarkPit",
+      "imgURL": "/Content/Uploads/1c339fba-31a5-40f5-ad47-f91b9fd8f209.png",
+      "colour": "#af6ceb"
+    },
+    {
+      "characterID": 195,
+      "name": "Diddy Kong",
+      "short": "Diddy",
+      "imgURL": "/Content/Uploads/f02986bd-cf90-46ab-9ec0-90fab713fedb.png",
+      "colour": "#f24d49"
+    },
+    {
+      "characterID": 167,
+      "name": "Donkey Kong",
+      "short": "DK",
+      "imgURL": "/Content/Uploads/859ab3ee-b2f0-471a-8e05-8cc8f38b282e.png",
+      "colour": "#feda00"
+    },
+    {
+      "characterID": 248,
+      "name": "Dr. Mario",
+      "short": "DrMario",
+      "imgURL": "/Content/Uploads/52f9c8a6-55a2-4f7c-a562-fa4ae9065a1f.png",
+      "colour": "#f96269"
+    },
+    {
+      "characterID": 232,
+      "name": "Duck Hunt Duo",
+      "short": "DuckHuntDuo",
+      "imgURL": "/Content/Uploads/44c074a8-ce90-4569-80e0-f4c204b3ca82.png",
+      "colour": "#945b33"
+    },
+    {
+      "characterID": 252,
+      "name": "Falco",
+      "short": "Falco",
+      "imgURL": "/Content/Uploads/ccde9336-4646-4741-a9f6-d37e552c55bd.png",
+      "colour": "#52b2e4"
+    },
+    {
+      "characterID": 159,
+      "name": "Fox",
+      "short": "Fox",
+      "imgURL": "/Content/Uploads/caea6976-3a7f-47bb-afc3-6786714904d4.png",
+      "colour": "#036ac9"
+    },
+    {
+      "characterID": 242,
+      "name": "Ganondorf",
+      "short": "Ganondorf",
+      "imgURL": "/Content/Uploads/b165a64f-f1a7-4db0-9916-e4dfcfa6f66f.png",
+      "colour": "#7e7999"
+    },
+    {
+      "characterID": 205,
+      "name": "Greninja",
+      "short": "Greninja",
+      "imgURL": "/Content/Uploads/f27e7b47-c6fd-42f7-acaf-f5fbcd643c6b.png",
+      "colour": "#4875aa"
+    },
+    {
+      "characterID": 207,
+      "name": "Ike",
+      "short": "Ike",
+      "imgURL": "/Content/Uploads/b84a99be-a9a8-40af-a980-b0da65a88079.png",
+      "colour": "#c44737"
+    },
+    {
+      "characterID": 243,
+      "name": "Jigglypuff",
+      "short": "JIgglypuff",
+      "imgURL": "/Content/Uploads/bb78cc58-6fa0-4b42-8693-be1426d3f0cf.png",
+      "colour": "#f283ec"
+    },
+    {
+      "characterID": 189,
+      "name": "King Dedede",
+      "short": "Dedede",
+      "imgURL": "/Content/Uploads/7734066d-dd71-42ba-8b0f-ebd6454e8e79.png",
+      "colour": "#ffe966"
+    },
+    {
+      "characterID": 161,
+      "name": "Kirby",
+      "short": "Kirby",
+      "imgURL": "/Content/Uploads/83360157-fa67-4f46-a6a8-5e895280d73c.png",
+      "colour": "#fbbec3"
+    },
+    {
+      "characterID": 165,
+      "name": "Link",
+      "short": "Link",
+      "imgURL": "/Content/Uploads/b2a30365-c9b0-4997-a228-e896c7aa457d.png",
+      "colour": "#bed163"
+    },
+    {
+      "characterID": 193,
+      "name": "Little Mac",
+      "short": "LittleMac",
+      "imgURL": "/Content/Uploads/5f30114b-7f9a-4e2a-a160-68b4dd285a04.png",
+      "colour": "#39775a"
+    },
+    {
+      "characterID": 191,
+      "name": "Lucario",
+      "short": "Lucario",
+      "imgURL": "/Content/Uploads/22a67e07-012a-4e46-8b49-1386284f584e.png",
+      "colour": "#aee4ff"
+    },
+    {
+      "characterID": 260,
+      "name": "Lucas",
+      "short": "Lucas",
+      "imgURL": "/Content/Uploads/3944c5f8-6090-424c-85ca-44fa5391cff5.png",
+      "colour": "#F05F1B"
+    },
+    {
+      "characterID": 219,
+      "name": "Lucina",
+      "short": "Lucina",
+      "imgURL": "/Content/Uploads/1be643f5-b2b8-4f47-ac0c-9b2ca46bbe09.png",
+      "colour": "#74a7ca"
+    },
+    {
+      "characterID": 175,
+      "name": "Luigi",
+      "short": "Luigi",
+      "imgURL": "/Content/Uploads/ecf24a18-f81d-436e-b3f2-9f7fe7160fe6.png",
+      "colour": "#41a732"
+    },
+    {
+      "characterID": 151,
+      "name": "Mario",
+      "short": "Mario",
+      "imgURL": "/Content/Uploads/6b915aa0-9975-42b3-abe7-c5cde66bc93b.png",
+      "colour": "#e03038"
+    },
+    {
+      "characterID": 183,
+      "name": "Marth",
+      "short": "Marth",
+      "imgURL": "/Content/Uploads/76fb398f-6eac-4f42-af5b-155a6e7e4388.png",
+      "colour": "#3eaacc"
+    },
+    {
+      "characterID": 215,
+      "name": "Mega Man",
+      "short": "Megaman",
+      "imgURL": "/Content/Uploads/d68f012b-3be6-493a-a338-7cc651b5cfc6.png",
+      "colour": "#75c2e3"
+    },
+    {
+      "characterID": 223,
+      "name": "Metaknight",
+      "short": "Metaknight",
+      "imgURL": "/Content/Uploads/d5925ea4-9c41-4a76-82ec-0009d67f89ca.png",
+      "colour": "#2d3d7a"
+    },
+    {
+      "characterID": 254,
+      "name": "Mewtwo",
+      "short": "Mewtwo",
+      "imgURL": "/Content/Uploads/67e3b555-5c46-490a-a9e3-f275ee4826ca.png",
+      "colour": "#8054c3"
+    },
+    {
+      "characterID": 210,
+      "name": "Mii Brawler",
+      "short": "MiiBrawler",
+      "imgURL": "/Content/Uploads/997fa399-e06c-4863-8353-c3c91881b57c.png",
+      "colour": "#5cc1e6"
+    },
+    {
+      "characterID": 227,
+      "name": "Mii Gunner",
+      "short": "MiiGunner",
+      "imgURL": "/Content/Uploads/f38f5c95-4066-462e-b400-2862ed411628.png",
+      "colour": "#5cc1e6"
+    },
+    {
+      "characterID": 225,
+      "name": "Mii Swordfighter",
+      "short": "MiiSwordfighter",
+      "imgURL": "/Content/Uploads/3391ac7e-532e-416a-84ab-7d137d46fb42.png",
+      "colour": "#5cc1e6"
+    },
+    {
+      "characterID": 236,
+      "name": "Mr. Game and Watch",
+      "short": "GameAndWatch",
+      "imgURL": "/Content/Uploads/7d7bff28-3e02-4df2-a170-e9023837bfdc.png",
+      "colour": "#a6a390"
+    },
+    {
+      "characterID": 246,
+      "name": "Ness",
+      "short": "Ness",
+      "imgURL": "/Content/Uploads/8cc26bad-5f4e-4aa9-a007-e15d67f39d42.png",
+      "colour": "#f02d33"
+    },
+    {
+      "characterID": 214,
+      "name": "Pac-Man",
+      "short": "PacMan",
+      "imgURL": "/Content/Uploads/184ad5a5-8e8a-4835-8131-006d1bf82a57.png",
+      "colour": "#f9b038"
+    },
+    {
+      "characterID": 211,
+      "name": "Palutena",
+      "short": "Palutena",
+      "imgURL": "/Content/Uploads/1ac1327d-524a-4a6c-ad1b-2ad8afaa2f8c.png",
+      "colour": "#74e8bf"
+    },
+    {
+      "characterID": 177,
+      "name": "Peach",
+      "short": "Peach",
+      "imgURL": "/Content/Uploads/4c65ba7d-13eb-4ba8-9835-aa8cf211ee41.png",
+      "colour": "#fec6f3"
+    },
+    {
+      "characterID": 157,
+      "name": "Pikachu",
+      "short": "Pikachu",
+      "imgURL": "/Content/Uploads/36833a24-aa1c-4d42-8af2-d1163cc9df50.png",
+      "colour": "#ffc000"
+    },
+    {
+      "characterID": 173,
+      "name": "Pikmin & Olimar",
+      "short": "Olimar",
+      "imgURL": "/Content/Uploads/c08fac5d-4354-4138-823e-6382aed9f802.png",
+      "colour": "#bdef9e"
+    },
+    {
+      "characterID": 153,
+      "name": "Pit",
+      "short": "Pit",
+      "imgURL": "/Content/Uploads/2a2ea014-6cbd-462f-9946-c2d263d2515b.png",
+      "colour": "#7bb5d5"
+    },
+    {
+      "characterID": 255,
+      "name": "Random",
+      "short": "Random",
+      "imgURL": "/Content/Uploads/b1aa0a1d-07be-4c48-8b95-406cfa4c19a5.png",
+      "colour": "#000000"
+    },
+    {
+      "characterID": 234,
+      "name": "ROB",
+      "short": "ROB",
+      "imgURL": "/Content/Uploads/31efb083-1cd7-44a7-97c7-1510b8c8cc0e.png",
+      "colour": "#b2b9bf"
+    },
+    {
+      "characterID": 217,
+      "name": "Robin",
+      "short": "Robin",
+      "imgURL": "/Content/Uploads/f8a7ae29-b1ea-4126-b3a1-78b210520902.png",
+      "colour": "#ce82de"
+    },
+    {
+      "characterID": 185,
+      "name": "Rosalina & Luma",
+      "short": "Rosalina",
+      "imgURL": "/Content/Uploads/e7243e1a-29eb-4335-a22f-c4ba5605036e.png",
+      "colour": "#89e0d5"
+    },
+    {
+      "characterID": 263,
+      "name": "Roy",
+      "short": "Roy",
+      "imgURL": "/Content/Uploads/d3dd503c-f2fe-481a-beef-b2440c5520a3.png",
+      "colour": "#5CB94D"
+    },
+    {
+      "characterID": 264,
+      "name": "Ryu",
+      "short": "Ryu",
+      "imgURL": "/Content/Uploads/ee12bcb6-6ec6-4694-99c4-bf796008a3a1.png",
+      "colour": "#E04447"
+    },
+    {
+      "characterID": 163,
+      "name": "Samus",
+      "short": "Samus",
+      "imgURL": "/Content/Uploads/c21d3f42-8beb-4e27-a149-7a2e30246161.png",
+      "colour": "#333f58"
+    },
+    {
+      "characterID": 199,
+      "name": "Sheik",
+      "short": "Sheik",
+      "imgURL": "/Content/Uploads/91f97c06-ef8a-4b6f-972b-1b79f70c9d40.png",
+      "colour": "#7371d8"
+    },
+    {
+      "characterID": 229,
+      "name": "Shulk",
+      "short": "Shulk",
+      "imgURL": "/Content/Uploads/586a8510-67ca-4aab-aa9e-5bc114af5145.png",
+      "colour": "#e55b79"
+    },
+    {
+      "characterID": 181,
+      "name": "Sonic",
+      "short": "Sonic",
+      "imgURL": "/Content/Uploads/3b78da38-4337-40be-aa0e-8818b646c7d8.png",
+      "colour": "#579df2"
+    },
+    {
+      "characterID": 179,
+      "name": "Toon Link",
+      "short": "ToonLink",
+      "imgURL": "/Content/Uploads/db41e66b-a8d5-4078-abc7-14b4e9b0f63d.png",
+      "colour": "#95d642"
+    },
+    {
+      "characterID": 171,
+      "name": "Villager",
+      "short": "Villager",
+      "imgURL": "/Content/Uploads/833fa0b1-2d1f-4ef7-a2db-af97a31da918.png",
+      "colour": "#3bac6c"
+    },
+    {
+      "characterID": 238,
+      "name": "Wario",
+      "short": "Wario",
+      "imgURL": "/Content/Uploads/7521d3e0-31ac-466e-b905-1167052253bd.png",
+      "colour": "#fecb4c"
+    },
+    {
+      "characterID": 169,
+      "name": "Wii Fit Trainer",
+      "short": "WiiFitTrainer",
+      "imgURL": "/Content/Uploads/58a6f97b-841b-4991-8bd1-12c690dacbe0.png",
+      "colour": "#86d776"
+    },
+    {
+      "characterID": 201,
+      "name": "Yoshi",
+      "short": "Yoshi",
+      "imgURL": "/Content/Uploads/b25f38d9-7051-4ad3-a349-117923d824da.png",
+      "colour": "#68d154"
+    },
+    {
+      "characterID": 187,
+      "name": "Zelda",
+      "short": "Zelda",
+      "imgURL": "/Content/Uploads/886e0dab-f47d-4c53-b0f3-03ec2ccb2277.png",
+      "colour": "#aa74ba"
+    },
+    {
+      "characterID": 197,
+      "name": "Zero Suit Samus",
+      "short": "ZeroSuitSamus",
+      "imgURL": "/Content/Uploads/5a0f4dc8-f87b-4ef6-8d26-043ab011f2f5.png",
+      "colour": "#005aaa"
+    }
+  ],
+  "regions": [
+    {
+      "regionID": 4,
+      "imgURL": "/Content/Uploads/2e82492e-24c9-4863-94f2-0aebe084ff64.png",
+      "name": "Queensland",
+      "short": "QLD"
+    },
+    {
+      "regionID": 6,
+      "imgURL": "/Content/Uploads/495dd1f3-7716-44d7-b81c-2338785e0241.png",
+      "name": "New South Wales",
+      "short": "NSW"
+    },
+    {
+      "regionID": 7,
+      "imgURL": "/Content/Uploads/ee652a0e-cf98-4841-9eba-74ca37ac2c59.png",
+      "name": "Victoria",
+      "short": "VIC"
+    },
+    {
+      "regionID": 8,
+      "imgURL": "/Content/Uploads/91abcb3c-ba3f-42bb-b1ef-65465b144c99.png",
+      "name": "South Australia",
+      "short": "SA"
+    },
+    {
+      "regionID": 9,
+      "imgURL": "/Content/Uploads/a37be7ae-c940-401e-af43-612e5ca3ae60.png",
+      "name": "Western Australia",
+      "short": "WA"
+    },
+    {
+      "regionID": 10,
+      "imgURL": "/Content/Uploads/d0e81bf7-3993-4ef5-a6d0-3845b4160e5e.png",
+      "name": "Australian Capital Territory",
+      "short": "ACT"
+    },
+    {
+      "regionID": 22,
+      "imgURL": "/Content/Uploads/35f47a43-87db-416f-90eb-9f460d6d7af6.png",
+      "name": "New Zealand",
+      "short": "NZ"
+    },
+    {
+      "regionID": 23,
+      "imgURL": "/Content/Uploads/d4aa3a44-5c83-4968-ad37-8e5e6b208a45.png",
+      "name": "Tasmania",
+      "short": "TAS"
+    },
+    {
+      "regionID": 24,
+      "imgURL": "/Content/Uploads/0c2a6a2e-40cd-45d9-aa0b-1555ba52b414.png",
+      "name": "Northern Territory",
+      "short": "NT"
+    },
+    {
+      "regionID": 25,
+      "imgURL": "/Content/Uploads/7aee6973-8254-4123-b5a1-def7c302aa84.png",
+      "name": "International",
+      "short": "INT"
+    }
+  ]
+}

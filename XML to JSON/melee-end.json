@@ -1,0 +1,255 @@
+{
+"characters": [
+    {
+      "characterID": 66,
+      "name": "Bowser",
+      "short": "Bowser",
+      "imgURL": "/Content/Uploads/227461c4-cff6-4b9b-bf76-621ceff3c4d2.png",
+      "colour": "#32765c"
+    },
+    {
+      "characterID": 70,
+      "name": "Captain Falcon",
+      "short": "C Falcon",
+      "imgURL": "/Content/Uploads/962f2592-070e-4abc-8a64-d54d6b4354cf.png",
+      "colour": "#9088e2"
+    },
+    {
+      "characterID": 69,
+      "name": "Donkey Kong",
+      "short": "DK",
+      "imgURL": "/Content/Uploads/d87fe4ef-7f87-4ec8-864d-0c4f607b428d.png",
+      "colour": "#feda00"
+    },
+    {
+      "characterID": 64,
+      "name": "Dr. Mario",
+      "short": "Dr Mario",
+      "imgURL": "/Content/Uploads/2dc7d68a-7e71-436d-bac8-37784cb734a3.png",
+      "colour": "#f96269"
+    },
+    {
+      "characterID": 72,
+      "name": "Falco",
+      "short": "Falco",
+      "imgURL": "/Content/Uploads/445eadd5-0a98-4800-b3b4-682ae0a1c555.png",
+      "colour": "#52b2e4"
+    },
+    {
+      "characterID": 73,
+      "name": "Fox",
+      "short": "Fox",
+      "imgURL": "/Content/Uploads/7154987a-926b-456a-9163-3bcf158e10f0.png",
+      "colour": "#036ac9"
+    },
+    {
+      "characterID": 71,
+      "name": "Ganondorf",
+      "short": "Ganon",
+      "imgURL": "/Content/Uploads/02aa6c95-2eb4-48b1-92ea-4d8279933e98.png",
+      "colour": "#7e7999"
+    },
+    {
+      "characterID": 75,
+      "name": "Ice Climbers",
+      "short": "ICs",
+      "imgURL": "/Content/Uploads/ff44f012-795f-4195-bea6-7a6269cf51ff.png",
+      "colour": "#876fee"
+    },
+    {
+      "characterID": 84,
+      "name": "Jigglypuff",
+      "short": "Jigglypuff",
+      "imgURL": "/Content/Uploads/cefe9cce-b96a-4295-8a51-37e40fb23881.png",
+      "colour": "#f283ec"
+    },
+    {
+      "characterID": 76,
+      "name": "Kirby",
+      "short": "Kirby",
+      "imgURL": "/Content/Uploads/157e4ae0-2cf2-470c-841c-c9aa52104ca8.png",
+      "colour": "#fbbec3"
+    },
+    {
+      "characterID": 80,
+      "name": "Link",
+      "short": "Link",
+      "imgURL": "/Content/Uploads/d1bb95db-15a7-4c84-9ca9-256cbdb16ce9.png",
+      "colour": "#bed163"
+    },
+    {
+      "characterID": 65,
+      "name": "Luigi",
+      "short": "Luigi",
+      "imgURL": "/Content/Uploads/002b7a8d-a811-4b70-a36c-1434ad6ab7b0.png",
+      "colour": "#41a732"
+    },
+    {
+      "characterID": 63,
+      "name": "Mario",
+      "short": "Mario",
+      "imgURL": "/Content/Uploads/f4ea536c-ecf6-4f86-9a7a-d705926e8488.png",
+      "colour": "#e03038"
+    },
+    {
+      "characterID": 87,
+      "name": "Marth",
+      "short": "Marth",
+      "imgURL": "/Content/Uploads/cd3b0013-c569-4c85-a3c6-60661a297de6.png",
+      "colour": "#3eaacc"
+    },
+    {
+      "characterID": 85,
+      "name": "Mewtwo",
+      "short": "Mewtwo",
+      "imgURL": "/Content/Uploads/52460c27-a818-4bc3-ab70-85adf871d17f.png",
+      "colour": "#a60fc6"
+    },
+    {
+      "characterID": 86,
+      "name": "Mr. Game and Watch",
+      "short": "GameAndWatch",
+      "imgURL": "/Content/Uploads/51320f63-7191-4386-9d7a-e5779fe7c799.png",
+      "colour": "#a6a390"
+    },
+    {
+      "characterID": 74,
+      "name": "Ness",
+      "short": "Ness",
+      "imgURL": "/Content/Uploads/f4636eef-cb9b-4488-8f3c-4f1475d47d23.png",
+      "colour": "#f02d33"
+    },
+    {
+      "characterID": 67,
+      "name": "Peach",
+      "short": "Peach",
+      "imgURL": "/Content/Uploads/f0a5a854-8240-4a49-a762-a0249af5323e.png",
+      "colour": "#fec6f3"
+    },
+    {
+      "characterID": 82,
+      "name": "Pichu",
+      "short": "Pichu",
+      "imgURL": "/Content/Uploads/3a2d5f36-dc5e-4a3e-bef1-04b9cfe8d7e5.png",
+      "colour": "#f8fd62"
+    },
+    {
+      "characterID": 83,
+      "name": "Pikachu",
+      "short": "Pikachu",
+      "imgURL": "/Content/Uploads/b91a642c-ce0f-4306-baea-0a291e25f6c5.png",
+      "colour": "#ffc000"
+    },
+    {
+      "characterID": 97,
+      "name": "Random",
+      "short": "Random",
+      "imgURL": "/Content/Uploads/632b61a6-5147-4464-91c3-7cb1cb7c3511.png",
+      "colour": "#000000"
+    },
+    {
+      "characterID": 88,
+      "name": "Roy",
+      "short": "Roy",
+      "imgURL": "/Content/Uploads/84240814-b6af-461e-8859-5483bcc6cb1d.png",
+      "colour": "#c72525"
+    },
+    {
+      "characterID": 77,
+      "name": "Samus",
+      "short": "Samus",
+      "imgURL": "/Content/Uploads/a9690a2c-c2ad-4264-9f6e-1e9dfe9c8341.png",
+      "colour": "#333f58"
+    },
+    {
+      "characterID": 79,
+      "name": "Sheik",
+      "short": "Sheik",
+      "imgURL": "/Content/Uploads/27f8d7e3-6b5b-4709-8291-73be09bfde05.png",
+      "colour": "#7371d8"
+    },
+    {
+      "characterID": 68,
+      "name": "Yoshi",
+      "short": "Yoshi",
+      "imgURL": "/Content/Uploads/311f00ef-ddb5-4532-aac3-6e5f3ca8da8b.png",
+      "colour": "#68d154"
+    },
+    {
+      "characterID": 81,
+      "name": "Young Link",
+      "short": "Y. Link",
+      "imgURL": "/Content/Uploads/66b5e21a-5b1c-4672-ad90-7bd0b6460f31.png",
+      "colour": "#95d642"
+    },
+    {
+      "characterID": 78,
+      "name": "Zelda",
+      "short": "Zelda",
+      "imgURL": "/Content/Uploads/34243068-eea3-4bd1-8b92-7f2b39f84a2d.png",
+      "colour": "#aa74ba"
+    }
+  ],
+  "regions": [
+    {
+      "regionID": 4,
+      "imgURL": "/Content/Uploads/2e82492e-24c9-4863-94f2-0aebe084ff64.png",
+      "name": "Queensland",
+      "short": "QLD"
+    },
+    {
+      "regionID": 6,
+      "imgURL": "/Content/Uploads/495dd1f3-7716-44d7-b81c-2338785e0241.png",
+      "name": "New South Wales",
+      "short": "NSW"
+    },
+    {
+      "regionID": 7,
+      "imgURL": "/Content/Uploads/ee652a0e-cf98-4841-9eba-74ca37ac2c59.png",
+      "name": "Victoria",
+      "short": "VIC"
+    },
+    {
+      "regionID": 8,
+      "imgURL": "/Content/Uploads/91abcb3c-ba3f-42bb-b1ef-65465b144c99.png",
+      "name": "South Australia",
+      "short": "SA"
+    },
+    {
+      "regionID": 9,
+      "imgURL": "/Content/Uploads/a37be7ae-c940-401e-af43-612e5ca3ae60.png",
+      "name": "Western Australia",
+      "short": "WA"
+    },
+    {
+      "regionID": 10,
+      "imgURL": "/Content/Uploads/d0e81bf7-3993-4ef5-a6d0-3845b4160e5e.png",
+      "name": "Australian Capital Territory",
+      "short": "ACT"
+    },
+    {
+      "regionID": 22,
+      "imgURL": "/Content/Uploads/35f47a43-87db-416f-90eb-9f460d6d7af6.png",
+      "name": "New Zealand",
+      "short": "NZ"
+    },
+    {
+      "regionID": 23,
+      "imgURL": "/Content/Uploads/d4aa3a44-5c83-4968-ad37-8e5e6b208a45.png",
+      "name": "Tasmania",
+      "short": "TAS"
+    },
+    {
+      "regionID": 24,
+      "imgURL": "/Content/Uploads/0c2a6a2e-40cd-45d9-aa0b-1555ba52b414.png",
+      "name": "Northern Territory",
+      "short": "NT"
+    },
+    {
+      "regionID": 25,
+      "imgURL": "/Content/Uploads/7aee6973-8254-4123-b5a1-def7c302aa84.png",
+      "name": "International",
+      "short": "INT"
+    }
+  ]
+}
