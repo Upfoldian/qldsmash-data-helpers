@@ -30,7 +30,7 @@ If you want to convert that file into a postgresql database, read on.
 1. Make sure you have one of the files outputted in the json steps above.
 2. bundle install the gemfile or make sure you have all the gems listed in the file
 3. Create the database and username/pw you want to access the db using the respective postgresql commands (look up createdb and createuser or using the GUI manager that comes with postgresql)
-3a. Adjust the shitty db schema I rushed out in a night to have the data you want (OPTIONAL)
+*3a. Adjust the shitty db schema I rushed out in a night to have the data you want (OPTIONAL)
 4. Run the respective db-migrate file.
 5. Wait awhile
 6. You're done.
